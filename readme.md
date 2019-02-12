@@ -11,20 +11,6 @@ Which names would you like to activate HTTPS for?
 -------------------------------------------------------------------------------
 1: ultimheat.co.th
 2: www.ultimheat.co.th
-3: curabara.com
-4: www.curabara.com
-5: publibase.com
-6: www.publibase.com
-7: ultimheat.com
-8: admin-museum.ultimheat.com
-9: dico-chauffage.ultimheat.com
-10: downloads.ultimheat.com
-11: museum.ultimheat.com
-12: museum2.ultimheat.com
-13: museum22.ultimheat.com
-14: www.ultimheat.com
-15: uultimheat.com
-16: tapp.wecanf.net
 -------------------------------------------------------------------------------
 Select the appropriate numbers separated by commas and/or spaces, or leave input
 blank to select all options shown (Enter 'c' to cancel): 1
@@ -78,6 +64,6 @@ IMPORTANT NOTES:
 
    Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
    Donating to EFF:                    https://eff.org/donate-le
-
-
 ```
+**wow**
+
